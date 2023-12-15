@@ -1,1 +1,1 @@
-# thu_Details_of_Management_Information_BII_Final_Report
+# 経営情報各論BⅡ　期末課題
